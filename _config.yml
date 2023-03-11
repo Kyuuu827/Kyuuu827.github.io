@@ -15,102 +15,186 @@ website: www.github.com/Kyuuu827
 darkmode: false
 
 # Social links
-twitter_username: lck0827
 github_username:  Kyuuu827
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-instagram_username: Kyuuu827
+# facebook_username: lck0827
+#instagram_username: Kyuuu827
 linkedin_username: lck0827
-# xing_username: jekyll
-# pinterest_username: jekyll
 #youtube_username: lck0827
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+- title: blog
+  icon: fas fa-blog
+  url: Kyuuu827.tistory.com
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Chankyu and I'm Backend Developer. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  안녕하세요. 백엔드 개발자 이찬규 입니다.<br/>
+  현재 웹 서비스 개발 업무를 메인으로 진행하며 개인의 성과가 회사의 성장, 구성원들의 업무 효율 증대에 기여하는 것을 피부로 느끼고 있습니다. 
+  개발자로서의 개발 업무에만 집중하는 것을 넘어, 사업의 방향성과 도메인에 대한 깊은 이해를 바탕으로 최대 성과를 낼 수 있는 방안을 도출하는 것에 집중합니다. <br/><br/> 
+  소규모의 신규 백오피스는 기획/개발/배포/운영을 모두 단독으로 진행해보며 사고의 스펙트럼을 넓히는 경험을 하였습니다. 더불어 동료들의 적극적인 피드백을 
+  받으며 부족한 점을 보완하는 것에 큰 보람과 즐거움을 느낍니다. 로그의 힘을 믿고 이슈가 발생하지 않아도 모니터링을 통해 먼저 개선하고 의견을 요청합니다.<br/><br/>
+  **"급박한 상황에도 흔들리지 않는 맷집 그리고 평정심"**<br/><br/>
+  저를 잘 표현하는 문장입니다. 어떤 어려움을 직면해도 반드시 해결할 수 있다는 확신이 있고 그런 상황에서도 평정심을 잘 유지할 수 있습니다. 이러한 평정심은 
+  좀 더 신속하게 효율적인 해결책을 찾아낼 수 있도록 도움을 주는 것 같습니다.
 
-  I am most skilled in: <mark>Python</mark> and <mark>Eating Pizza</mark>
+#  I am most skilled in: <mark>Python</mark> and <mark>Go</mark>
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Experience # Title for the section
+    layout: list # Type of _data section (list/text)
+    content:
+      - layout: left
+        title: 중고나라(Joonggonara)
+        link: https://web.joongna.com
+        # link_text: boringcompany.com
+        sub_title: 아키텍처팀, Backend Developer
+        caption: 2022.03 - Present
+        quote: >
+          카페 회원 누적 1900만, 모바일 앱 누적 1000만 다운로드 달성의 중고거래 온라인 플랫폼
+        description: | # this will include new lines to allow paragraphs
+          * 모니터링 어드민 개발
+          * 셀러 전용 서비스 개발
+          * 사내 배포 시스템 개발
+          * 사내 계정 생성/삭제 자동화 개발
+      - title: GC녹십자
+        link: https://www.gccorp.com
+        sub_title: Medical Affair (Clinical Trial)
+        caption: 2018.07 - 2021.08
+        quote: >
+          연 매출 1조 7천억원 이상의 국내 굴지의 제약사
+        description: |
+          * 시판 후 조사(PMS) Study Manager
+            - 인슐린 주사제, 수두 백신 등의 PMS 과제 Management
+          * 연구자 주도 임상 연구(IIT) Study Manager
+            - EGFR 표적항암제, 항암보조제(뉴라펙) 관련 임상 연구 Management
+          * 관찰연구(Observational Study) Study Manager
+            - 항암보조제(뉴라펙) 관찰연구 초기 세팅
+
+  - title: Skill
+    layout: list # Type of _data section (list/text)
+    content:
+      - layout: left
+        title: Backend
+        description: |
+          * **Python, Django(DRF), Flask**
+            - Django 프레임워크에 익숙하며, 원하는 기능의 API 개발이 가능합니다.
+            - Python과 관련된 새로운 프레임워크, 라이브러리를 탐구하고 적용하는
+              것에 흥미가 있습니다.<br/><br/>
+          * **Go, Gin, gRPC, GORM, Protocol Buffers(protobuf)**
+            - gRPC를 이해하고 protobuf 방식을 통한 API 개발이 가능합니다.
+            - SQL raw query 외에 GORM을 사용한 API 개발 경험이 있습니다.
+            - 해당 기술들을 활용하여 신규 백오피스 서비스의 기획/개발/배포/운영을
+              진행하였습니다.
+      - layout: left
+        title: DevOps
+        description: |
+          * AWS가 제공하는 서비스들을 사용한 경험이 있고 현업에서의 사용 빈도가 점점 높아지고 있습니다
+          * MySQL, MariaDB, MongoDB, AWS Aurora, DocumentDB, DynamoDB
+          * AWS SQS, Lambda, S3, Cloud Watch, EC2
+      - layout: left
+        title: Frontend
+        description: |
+          * **Vue.js (version 2.0 & 3.0)**
+            - Version 2.0 과 3.0을 모두 사용하여 개발을 진행한 경험이 있습니다.
+            - Ant Design Vue와 같은 라이브러리를 사용한 백오피스 개발이 가능합니다.
+
+  - title: Projects
+    layout: list
     content:
       - layout: top-middle
-        title: 프로젝트
-        link: github.com/Kyuuu827
-        # link_text: Project Website
-        additional_links:
-          - title:  Kyuuu827
-            icon: fab fa-github
-            url: github.com/Kyuuu827
+        title: 사내 계정 생성 자동화 기능 개발
+#        link: github.com/Kyuuu827
+#        link_text: Project Website
+#        additional_links:
+#          - title:  Kyuuu827
+#            icon: fab fa-github
+#            url: github.com/Kyuuu827
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          Skills: Go, Gin, GORM, AWS-SDK, AuroraDB, Vue,js
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+          * 신규입사/퇴사 또는 기존 직원의 권한 변경에 요청에 따른 각종 계정 생성 자동화를 위한 개발
+          * 계정 생성 요청 화면 개발
+          * Bitbucket 워크스페이스 초대 기능: Bitbucket Rest APIs 2.0을 통한 구현
+          * AWS IAM 계정 생성/삭제 기능: aws-sdk-go 라이브러리 사용
+          * IPA 계정 생성/수정/삭제 기능: freeIPA 라이브러리 커스텀을 통한 기능 구현
+          * 계정 생성 요청시 Slack 메시지 발송을 통한 관리자의 계정 생성 승인/반려 결정 및 결과 안내 기능 개발
+          * 완벽하지 않은 라이브러리는 예기치 못한 에러를 발생시킬 수 있으며, 원인을 파악하여 사내 개발 환경에 맞게 커스터마이징하여 사용<br/><br/>
+      - layout: top-middle
+        title: 사내 HR 프로그램 진행을 위한 전 직원 조 편성 백오피스 개발
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          Skills: Python, AWS Chalice, AWS Lambda, API Gateway, AuroraDB, Vue.js
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+          * 격주로 진행되는 사내 HR 프로그램 진행을 위한 직원 리스트 관리, 조 편성 및 결과 통보를 위한 백오피스 개발
+          * 입사자/퇴사자 발생시 전체 리스트 수정 기능, 행사 진행시 불참자 반영 및 랜덤 조편성 알고리즘 추가
+          * 전 직원이 쉽게 조회/검색 가능한 웹 페이지 개발
+          * AWS Chalice 프레임워크 신규 도입을 통한 AWS Lambda, API Gateway 연동 및 배포<br/><br/>
+      - layout: top-middle
+        title: 이미지 Webp 변환 및 S3 업로드 기능 개발 - Google SEO 이미지 최적화
+        quote: >
+          Skills: Python, Serverless Framework, AWS Lambda, SQS, S3, PIL
+        description: | # this will include new lines to allow paragraphs
+          * Google SEO 이미지 최적화를 위한 원본 이미지의 Webp 변환 및 S3 업로드 Api 개발
+          * Serverless Framework를 통한 AWS Lambda handling
+          * SQS 이미지 전송 및 Lambda Trigger
+          * 이미지 변환 라이브러리(PIL) 사용 (기존 포맷 -> Webp)
+          * 이미지 상태에 따라 예상치 못한 에러들이 다수 발생 (encoding 에러, 비정상적 이미지 에러, Webp 규격 초과 에러 등)
+          * 지속적인 모니터링을 통한 Exception 및 logging 보완<br/><br/>
+      - layout: top-middle
+        title: 사내 개발 조직의 업무 효율 상승을 위한 배포 시스템 개발
+        quote: >
+          Skills: Go, GORM, gRPC, Protobuf, AuroraDB, Bitbucket-Pipeline, Vue.js
+        description: | # this will include new lines to allow paragraphs
+          * 사내 개발자들의 배포 진행 및 배포 히스토리 관리를 위한 “배포 시스템” 개발 프로젝트의 기획 / 개발 / 운영 진행
+          * 팀별/개인별 배포 예정일, 배포 내용, Jira 이슈 넘버 등의 정보 등록/조회/수정/조건부 삭제 기능 구현(CRUD)
+          * Bitbucket REST API, Jira REST API, JQL을 활용하여, 배포 과정에서 필요한 Bitbucket 및 Jira 이슈 handling 기능 구현
+          * 버튼 원클릭 배포 기능 및 배포 결과에 따른 화면 기능 구현(배포 중지/실패 시 재배포 가능)<br/><br/>
+      - layout: top-middle
+        title: 셀러 전용 플랫폼 서비스 및 관리자 백오피스 개발
+        quote: >
+          Skills: Python, Django Rest Framework, S3, AuroraDB, Vue.js
+        description: | # this will include new lines to allow paragraphs
+          * 사업팀의 효율적인 셀러 관리를 위한 총체적인 관리 기능 신규 개발
+          * 계약 내역 , 관련 문서 S3 업로드 및 다운로드, 히스토리 조회 등의 기능 구현
+          * 셀러 상태/계약 히스토리에 따른 계약 종료/연장/재계약 등의 기능 구현
+          * 고도화 및 유지/보수 진행 중<br/><br/>
+      - layout: top-middle
+        title: 사내 직원 및 모니터링 요원들 전용 플랫폼 운영 백오피스 서비스 유지/보수 및 신규 기능 개발
+        quote: >
+          Skills: Python, Flask, SQLAlchemy, AuroraDB, MongoDB, Vue.js
+        description: | # this will include new lines to allow paragraphs
+          * 모니터링 요원들의 사기의심채팅 모니터링 목적의 채팅 화면 개발을 통한 모니터링 업무 효율 개선
+          * 사기의심 여부 반복 체크를 위한 프로세스 개발 및 도입
+          * 사기의심 유저와의 동일 디바이스 uuid 검출 여부 조회 기능 개발
+          * 고도화 및 유지/보수 진행 중<br/><br/>
 
   - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
+    layout: list # Type of _data section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        title: 경희대학교 (Kyunghee University)
+        caption: 2009.03 - 2015.02
+        sub_title: BS, Medical Science
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          * 생명과학, 화학 관련 주요 전공 과목 이수
+          * 해부학, 약리학 등의 기초의학 관련 주요 전공 과목 이수
+          * 유전자 재조합, 형질전환 등과 같은 다양한 주제의 in vivo, in vitro 실험교육을 통한 연구능력 배양 훈련
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      Null
 
-      Look at this cool image
-      ![Trees](/images/landscape-trees.jpg "Trees")
+#      Look at this cool image
+#      ![Trees](/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
