@@ -9,7 +9,6 @@ version: 2
 name: Lee Chankyu
 title: Backend Developer
 email: lck0827@gmail.com
-website: www.github.com/Kyuuu827
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -18,7 +17,7 @@ darkmode: false
 github_username:  Kyuuu827
 # facebook_username: lck0827
 #instagram_username: Kyuuu827
-linkedin_username: lck0827
+linkedin_username: chankyu-lee-07282917a
 #youtube_username: lck0827
 
 # Additional icon links
@@ -188,7 +187,7 @@ content:
           * 해부학, 약리학 등의 기초의학 관련 주요 전공 과목 이수
           * 유전자 재조합, 형질전환 등과 같은 다양한 주제의 in vivo, in vitro 실험교육을 통한 연구능력 배양 훈련
 
-  - title: A Little More About Me
+  - title: Description of me
     layout: text
     content: | # this will include new lines to allow paragraphs
       Null
