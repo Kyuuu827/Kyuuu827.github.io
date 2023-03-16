@@ -118,7 +118,7 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Skill: Go, Gin, GORM, AWS-SDK, AuroraDB, Vue,js
+          <b>Skill: Go, Gin, GORM, AWS-SDK, AuroraDB, Vue,js</b>
         description: | # this will include new lines to allow paragraphs
           * 신규입사/퇴사 또는 기존 직원의 권한 변경에 요청에 따른 각종 계정 생성 자동화를 위한 개발
           * 계정 생성 요청 화면 개발
@@ -130,7 +130,7 @@ content:
       - layout: top-middle
         title: 사내 HR 프로그램 진행을 위한 전 직원 조 편성 백오피스 개발
         quote: >
-          Skill: Python, AWS Chalice, AWS Lambda, API Gateway, AuroraDB, Vue.js
+          <b>Skill: Python, AWS Chalice, AWS Lambda, API Gateway, AuroraDB, Vue.js</b>
         description: | # this will include new lines to allow paragraphs
           * 격주로 진행되는 사내 HR 프로그램 진행을 위한 직원 리스트 관리, 조 편성 및 결과 통보를 위한 백오피스 개발
           * 입사자/퇴사자 발생시 전체 리스트 수정 기능, 행사 진행시 불참자 반영 및 랜덤 조편성 알고리즘 추가
@@ -139,7 +139,7 @@ content:
       - layout: top-middle
         title: 이미지 Webp 변환 및 S3 업로드 기능 개발 - Google SEO 이미지 최적화
         quote: >
-          Skill: Python, Serverless Framework, AWS Lambda, SQS, S3, PIL
+          <b>Skill: Python, Serverless Framework, AWS Lambda, SQS, S3, PIL</b>
         description: | # this will include new lines to allow paragraphs
           * Google SEO 이미지 최적화를 위한 원본 이미지의 Webp 변환 및 S3 업로드 Api 개발
           * Serverless Framework를 통한 AWS Lambda handling
@@ -150,7 +150,7 @@ content:
       - layout: top-middle
         title: 사내 개발 조직의 업무 효율 상승을 위한 배포 시스템 개발
         quote: >
-          Skill: Go, GORM, gRPC, Protobuf, AuroraDB, Bitbucket-Pipeline, Vue.js
+          <b>Skill: Go, GORM, gRPC, Protobuf, AuroraDB, Bitbucket-Pipeline, Vue.js</b>
         description: | # this will include new lines to allow paragraphs
           * 사내 개발자들의 배포 진행 및 배포 히스토리 관리를 위한 “배포 시스템” 개발 프로젝트의 기획 / 개발 / 운영 진행
           * 팀별/개인별 배포 예정일, 배포 내용, Jira 이슈 넘버 등의 정보 등록/조회/수정/조건부 삭제 기능 구현(CRUD)
@@ -159,7 +159,7 @@ content:
       - layout: top-middle
         title: 셀러 전용 플랫폼 서비스 및 관리자 백오피스 개발
         quote: >
-          Skill: Python, Django Rest Framework, S3, AuroraDB, Vue.js
+          <b>Skill: Python, Django Rest Framework, S3, AuroraDB, Vue.js</b>
         description: | # this will include new lines to allow paragraphs
           * 사업팀의 효율적인 셀러 관리를 위한 총체적인 관리 기능 신규 개발
           * 계약 내역 , 관련 문서 S3 업로드 및 다운로드, 히스토리 조회 등의 기능 구현
@@ -168,7 +168,7 @@ content:
       - layout: top-middle
         title: 사내 직원 및 모니터링 요원들 전용 플랫폼 운영 백오피스 서비스 유지/보수 및 신규 기능 개발
         quote: >
-          Skill: Python, Flask, SQLAlchemy, AuroraDB, MongoDB, Vue.js
+          <b>Skill: Python, Flask, SQLAlchemy, AuroraDB, MongoDB, Vue.js</b>
         description: | # this will include new lines to allow paragraphs
           * 모니터링 요원들의 사기의심채팅 모니터링 목적의 채팅 화면 개발을 통한 모니터링 업무 효율 개선
           * 사기의심 여부 반복 체크를 위한 프로세스 개발 및 도입
