@@ -143,7 +143,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           * Google SEO 이미지 최적화를 위한 원본 이미지의 Webp 변환 및 S3 업로드 Api 개발
           * Serverless Framework를 통한 AWS Lambda handling
-          * SQS 이미지 전송 및 Lambda Trigger
+          * AWS SQS 메시지 큐 방식을 통한 이미지 전송 및 Lambda Trigger
           * 이미지 변환 라이브러리(PIL) 사용 (기존 포맷 -> Webp)
           * 이미지 상태에 따라 예상치 못한 에러들이 다수 발생 (encoding 에러, 비정상적 이미지 에러, Webp 규격 초과 에러 등)
           * 지속적인 모니터링을 통한 Exception 및 logging 보완<br/><br/>
