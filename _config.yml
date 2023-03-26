@@ -31,7 +31,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile_01.jpg
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   안녕하세요. 백엔드 개발자 이찬규 입니다.<br/>
   현재 웹 서비스 개발 업무를 메인으로 진행하며 개인의 성과가 회사의 성장, 구성원들의 업무 효율 증대에 기여하는 것을 피부로 느끼고 있습니다. 
