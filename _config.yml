@@ -86,6 +86,7 @@ content:
             - Python과 관련된 새로운 프레임워크, 라이브러리를 탐구하고 적용하는
               것에 흥미가 있습니다.<br/><br/>
           * **Go, Gin, gRPC, GORM, Protocol Buffers(protobuf)**
+            - Gin 웹 프레임워크를 사용하여 백오피스를 개발한 경험이 있습니다.
             - gRPC를 이해하고 protobuf 방식을 통한 API 개발이 가능합니다.
             - SQL raw query 외에 GORM을 사용한 API 개발 경험이 있습니다.
             - 해당 기술들을 활용하여 신규 백오피스 서비스의 기획/개발/배포/운영을
