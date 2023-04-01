@@ -44,6 +44,35 @@ about_content: | # this will include new lines to allow paragraphs
 
 #  I am most skilled in: <mark>Python</mark> and <mark>Go</mark>
 
+  - title: Skill
+    layout: list # Type of _data section (list/text)
+    content:
+      - layout: left
+        title: Backend
+        description: |
+          * **Python, Django(DRF), Flask**
+            - Django 프레임워크에 익숙하며, 원하는 기능의 API 개발이 가능합니다.
+            - Python과 관련된 새로운 프레임워크, 라이브러리를 탐구하고 적용하는
+              것에 흥미가 있습니다.<br/><br/>
+          * **Go, Gin, gRPC, GORM, Protocol Buffers(protobuf)**
+            - Gin 웹 프레임워크를 사용하여 백오피스를 개발한 경험이 있습니다.
+            - gRPC를 이해하고 protobuf 방식을 통한 API 개발이 가능합니다.
+            - SQL raw query 외에 GORM을 사용한 API 개발 경험이 있습니다.
+            - 해당 기술들을 활용하여 신규 백오피스 서비스의 기획/개발/배포/운영을
+              진행하였습니다.
+      - layout: left
+        title: DevOps
+        description: |
+          * AWS가 제공하는 서비스들을 사용한 경험이 있고 현업에서의 사용 빈도가 점점 높아지고 있습니다
+          * MySQL, MariaDB, MongoDB, AWS Aurora, DocumentDB, DynamoDB
+          * AWS SQS, Lambda, S3, Cloud Watch, EC2
+      - layout: left
+        title: Frontend
+        description: |
+          * **Vue.js (version 2.0 & 3.0)**
+            - Version 2.0 과 3.0을 모두 사용하여 개발을 진행한 경험이 있습니다.
+            - Ant Design Vue와 같은 라이브러리를 사용한 백오피스 개발이 가능합니다.
+
 content:
   - title: Experience # Title for the section
     layout: list # Type of _data section (list/text)
@@ -74,35 +103,6 @@ content:
             - EGFR 표적항암제, 항암보조제(뉴라펙) 관련 임상 연구 Management
           * 관찰연구(Observational Study) Study Manager
             - 항암보조제(뉴라펙) 관찰연구 초기 세팅
-
-  - title: Skill
-    layout: list # Type of _data section (list/text)
-    content:
-      - layout: left
-        title: Backend
-        description: |
-          * **Python, Django(DRF), Flask**
-            - Django 프레임워크에 익숙하며, 원하는 기능의 API 개발이 가능합니다.
-            - Python과 관련된 새로운 프레임워크, 라이브러리를 탐구하고 적용하는
-              것에 흥미가 있습니다.<br/><br/>
-          * **Go, Gin, gRPC, GORM, Protocol Buffers(protobuf)**
-            - Gin 웹 프레임워크를 사용하여 백오피스를 개발한 경험이 있습니다.
-            - gRPC를 이해하고 protobuf 방식을 통한 API 개발이 가능합니다.
-            - SQL raw query 외에 GORM을 사용한 API 개발 경험이 있습니다.
-            - 해당 기술들을 활용하여 신규 백오피스 서비스의 기획/개발/배포/운영을
-              진행하였습니다.
-      - layout: left
-        title: DevOps
-        description: |
-          * AWS가 제공하는 서비스들을 사용한 경험이 있고 현업에서의 사용 빈도가 점점 높아지고 있습니다
-          * MySQL, MariaDB, MongoDB, AWS Aurora, DocumentDB, DynamoDB
-          * AWS SQS, Lambda, S3, Cloud Watch, EC2
-      - layout: left
-        title: Frontend
-        description: |
-          * **Vue.js (version 2.0 & 3.0)**
-            - Version 2.0 과 3.0을 모두 사용하여 개발을 진행한 경험이 있습니다.
-            - Ant Design Vue와 같은 라이브러리를 사용한 백오피스 개발이 가능합니다.
 
   - title: Projects
     layout: list
