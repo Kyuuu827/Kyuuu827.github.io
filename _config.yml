@@ -89,11 +89,12 @@ content:
           * 모니터링 어드민 개발
           * 셀러 전용 서비스 개발
           * 사내 배포 시스템 개발
+          * AWS 리소스 권한 관리 시스템 개발
           * 사내 계정 생성/삭제 자동화 개발
       - title: GC녹십자
         link: https://www.gccorp.com
         sub_title: Medical Affair (Clinical Trial)
-        caption: 2018.07 - 2021.08
+        caption: 2018.07 - 2021.09
         quote: >
           연 매출 1조 7천억원 이상의 국내 굴지의 제약사
         description: |
