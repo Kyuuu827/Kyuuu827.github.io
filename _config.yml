@@ -109,16 +109,25 @@ content:
     layout: list
     content:
       - layout: top-middle
-        title: 사내 계정 생성 자동화 기능 개발
-#        link: github.com/Kyuuu827
-#        link_text: Project Website
-#        additional_links:
-#          - title:  Kyuuu827
-#            icon: fab fa-github
-#            url: github.com/Kyuuu827
+        title: 회원등급, 카테고리별 게시글 자동 삭제 기능 개발
+          #        link: github.com/Kyuuu827
+          #        link_text: Project Website
+          #        additional_links:
+          #          - title:  Kyuuu827
+          #            icon: fab fa-github
+          #            url: github.com/Kyuuu827
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        #   icon: fab fa-github
+        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          <b>Skill: Python, Flask, AWS Lambda, Amazon Elasticache, Amazon Kinesis, AuroraDB, Vue,js</b>
+        description: | # this will include new lines to allow paragraphs
+          * 사내 정책에 따른 회원등급, 카테고리별 게시글 작성 횟수 제한 초과시 게시글 자동 삭제 기능 개발
+          * 정책 적용 받지 않는 예외 계정 관리 페이지 개발
+          * 계정별 게시글 집계(시간, 일 기준)는 Elasticache 캐싱을 통한 카운트 구현
+          * 게시글 필터링 및 삭제 API 호출 로직은 AWS Lambda를 통해 구현<br/><br/>
+      - layout: top-middle
+        title: 사내 계정 생성 자동화 기능 개발
         quote: >
           <b>Skill: Go, Gin, GORM, AWS-SDK, AuroraDB, Vue,js</b>
         description: | # this will include new lines to allow paragraphs
