@@ -165,7 +165,7 @@ content:
           * 이미지 상태에 따라 발생할 수 있는 다양한 에러(encoding 에러, 비정상적 이미지 에러, Webp 규격 초과 에러 등) handling
           * 지속적인 모니터링을 통한 logging 보완<br/><br/>
       - layout: top-middle
-        title: 사내 개발 조직의 업무 효율 상승을 위한 배포 시스템 개발
+        title: 사내 배포 시스템 개발
         quote: >
           <b>Skill: Go, GORM, gRPC, Protobuf, AuroraDB, Bitbucket-Pipeline, Vue.js</b>
         description: | # this will include new lines to allow paragraphs
@@ -184,7 +184,7 @@ content:
           * 셀러 상태/계약 히스토리에 따른 계약 종료/연장/재계약 등의 기능 구현
           * 사업 부서의 셀러 계약 관리 업무 방식 전환(엑셀 → 백오피스)<br/><br/>
       - layout: top-middle
-        title: 사내 직원 및 모니터링 요원 전용 플랫폼 운영 백오피스 서비스 유지/보수 및 신규 기능 개발
+        title: 사기 의심 채팅 모니터링 기능 고도화
         quote: >
           <b>Skill: Python, Flask, SQLAlchemy, AuroraDB, MongoDB, Vue.js</b>
         description: | # this will include new lines to allow paragraphs
@@ -210,7 +210,7 @@ content:
     content: | # this will include new lines to allow paragraphs
       - **"Growth itself contains the germ of happiness"**<br>
       제가 인생의 좌표로 삼고 있는 명언입니다. 이와 같이 인생의 가장 중요한 가치는 '**성장**'이라고
-      생각합니다. 회사와 개인의 지속적인 동반성장을 도모하는 개발자가 되고자 합니다.
+      생각합니다. 회사와 개인의 지속적인 동반성장을 도모하는 개발자가 되고자 합니다.<br/><br/>
       - 함께 "성장" 할 때 몇 배의 보람과 행복을 느낍니다. 이전 직군에서 Study Manager 역할을 수행하며, **함께 목표를 달성할 때의 희열**을 여러 번 
       느꼈고, 현재는 백엔드 개발자로 근무하며 팀원들과 함께 보람과 희열을 느끼며 매일매일 즐겁게 성장하고 있습니다.
 
