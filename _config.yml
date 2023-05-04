@@ -91,10 +91,10 @@ content:
           카페 회원 누적 1900만, 모바일 앱 누적 1000만 다운로드 달성의 중고거래 온라인 플랫폼
         description: | # this will include new lines to allow paragraphs
           * 백오피스 개발 - [회사 블로그 관련 게시글](https://blog.joongna.com/%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC-%EB%B0%B1%EC%98%A4%ED%94%BC%EC%8A%A4-%EA%B0%9C%EB%A1%A0-feat-%EA%B8%B0%EC%88%A0-%EC%8A%A4%ED%83%9D-6e29763cae9d)
-          * 모니터링 시스템 개발
+          * 통합 모니터링 시스템 개발 및 유지 보수
+          * 카페 게시글 크롤링 및 필터링 및 유지 보수
           * 셀러 전용 서비스/어드민 개발
           * 사내 배포 시스템 개발
-          * AWS 리소스 권한 관리 시스템 개발
           * 사내 계정 생성/삭제 자동화 개발
       - title: GC녹십자
         link: https://www.gccorp.com
