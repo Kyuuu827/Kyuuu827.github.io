@@ -137,7 +137,7 @@ content:
         quote: >
           <b>Skill: Go, Gin, GORM, AWS-SDK, AuroraDB, Vue,js</b>
         description: | # this will include new lines to allow paragraphs
-          * 신규입사/퇴사 또는 기존 직원의 권한 변경에 요청에 따른 각종 계정 관리 자동화를 위한 개발\
+          * 신규입사/퇴사 또는 기존 직원의 권한 변경에 요청에 따른 각종 계정 관리 자동화를 위한 개발
           * 계정 신규 생성, 계정 삭제, 비밀번호 초기화 기능 개발
           * 계정 생성 요청 화면 개발
           * Bitbucket 워크스페이스 초대 기능: Bitbucket Rest APIs 2.0을 통한 구현
