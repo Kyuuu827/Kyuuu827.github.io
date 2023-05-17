@@ -114,16 +114,22 @@ content:
     layout: list
     content:
       - layout: top-middle
-        title: 회원등급, 카테고리별 게시글 자동 삭제 기능 개발
+        title: 백오피스 API Migration (Go(gRPC) -> Spring Boot(Rest API))
           #        link: github.com/Kyuuu827
           #        link_text: Project Website
           #        additional_links:
           #          - title:  Kyuuu827
           #            icon: fab fa-github
-          #            url: github.com/Kyuuu827
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #            url: github.com/Kyuuu827
+        # - title:  Github page for project (eg. sproogen/modern-resume-theme)
         #   icon: fab fa-github
         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          <b>Skill: Kotlin 1.7.22, Spring Boot 3.0.6, Spring Data JPA, Hibernate, Querydsl, AuroraDB</b>
+        description: | # this will include new lines to allow paragraphs
+          * Kotlin + Spring Boot로의 서버 기술스택 전환 진행중(2023.5월 기준)
+      - layout: top-middle
+        title: 회원등급, 카테고리별 게시글 자동 삭제 기능 개발
         quote: >
           <b>Skill: Python, Flask, AWS Lambda, Amazon Elasticache, Amazon Kinesis, AuroraDB, Vue,js</b>
         description: | # this will include new lines to allow paragraphs
