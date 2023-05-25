@@ -71,9 +71,9 @@ content:
       - layout: left
         title: DevOps
         description: |
-          * AWS가 제공하는 서비스들을 사용한 경험이 있고 현업에서의 사용 빈도가 점점 높아지고 있습니다
+          * AWS가 제공하는 서비스들을 사용한 경험이 있고 현업에서 자주 사용하며 최적의 아키텍처 구성에 대해 고민합니다. 
           * MySQL, MongoDB, AWS Aurora, DocumentDB, DynamoDB
-          * AWS SQS, Lambda, S3, Cloud Watch, EC2, Elasticache
+          * AWS SQS, Lambda, S3, Cloud Watch, EC2, Elasticache, Kinesis
       - layout: left
         title: Frontend
         description: |
