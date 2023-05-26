@@ -57,8 +57,7 @@ content:
         description: |
           * **Python, Django(DRF), Flask**
             - Django 프레임워크에 익숙하며, 원하는 기능의 API 개발이 가능합니다.
-            - Python과 관련된 새로운 프레임워크, 라이브러리를 탐구하고 적용하는
-              것에 흥미가 있습니다.<br/><br/>
+            - Python 프레임워크, 라이브러리를 탐구하고 적용하는 것에 흥미가 있습니다.<br/><br/>
           * **Go, Gin, gRPC, GORM, Protocol Buffers(protobuf)**
             - Gin 웹 프레임워크를 사용하여 백오피스를 개발한 경험이 있습니다.
             - gRPC를 이해하고 protobuf 방식을 통한 API 개발이 가능합니다.
@@ -189,7 +188,7 @@ content:
           <b>Skill: Python, Django Rest Framework, S3, AuroraDB, Vue.js</b>
         description: | # this will include new lines to allow paragraphs
           * 사업팀의 효율적인 셀러 관리를 위한 총체적인 관리 기능 신규 개발
-          * 계약 내역 , 관련 문서 S3 업로드 및 다운로드, 히스토리 조회 등의 기능 구현
+          * 계약 내역, 관련 문서 S3 업로드 및 다운로드, 히스토리 조회 등의 기능 구현
           * 셀러 상태/계약 히스토리에 따른 계약 종료/연장/재계약 등의 기능 구현
           * 사업 부서의 셀러 계약 관리 업무 방식 전환(엑셀 → 백오피스)<br/><br/>
       - layout: top-middle
