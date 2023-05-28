@@ -64,7 +64,7 @@ content:
             - SQL raw query 외에 GORM을 사용한 API 개발 경험이 있습니다.
             - 해당 기술들을 활용하여 신규 백오피스 서비스의 기획/개발/배포/운영을
               진행하였습니다.<br/><br/>
-          * **Kotlin, Spring Boot, JPA, Hibernate, Querydsl**
+          * **Java, Kotlin, Spring Boot, JPA, Hibernate, Querydsl, Mybatis**
             - 기존에 개발되어 운영되고 있는 백오피스를 Kotlin + Spring Boot 기술스택으로 마이그레이션을 진행하며 기술을 습득 중입니다.
             - 프로젝트 생성부터 직접 진행해보며 프로젝트의 구조 및 클린 아키텍처에 대한 좀 더 고민하고, 프레임워크의 동작원리를 이해하려고 노력합니다.
       - layout: left
