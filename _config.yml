@@ -133,8 +133,8 @@ content:
         quote: >
           <b>Skill: Python, Flask, AuroraDB, Vue.js</b>
         description: |
-          * 운영, CS부서의 니즈에 따라, 기존 Java 8 + Spring Framework로 개발되어 있던 백오피스의 "신고 관리" 기능을 Python + Flask 기술스택으로
-            개발된 백오피스로 마이그레이션
+          * 운영, CS부서의 니즈에 따라, 기존 Java 8 + Spring Framework로 개발되어 있던 백오피스의 "신고 관리" 기능을<br> 
+            Python + Flask 기술스택으로 개발된 백오피스로 마이그레이션
           * 불필요 레거시 소스코드 정리 및 쿼리 최적화
           * 신규 기능 추가(앱 푸쉬 알람시 신고 정책에 따른 템플릿 제공)
       - layout: top-middle
