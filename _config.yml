@@ -120,7 +120,7 @@ content:
     layout: list
     content:
       - layout: top-middle
-        title: 앱 회원 신고 관리 어드민 고도화 및 마이그레이션
+        title: 앱 회원 신고 관리 개발
             #        link: github.com/Kyuuu827
           #        link_text: Project Website
           #        additional_links:
