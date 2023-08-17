@@ -124,17 +124,24 @@ content:
   - title: Projects
     layout: list
     content:
-      - layout: top-middle
-        title: 앱 회원 신고 관리 개발
+      - - layout: top-middle
+          title: 상품 시스템 개발 및 유지/보수
             #        link: github.com/Kyuuu827
-          #        link_text: Project Website
-          #        additional_links:
-          #          - title:  Kyuuu827
-          #            icon: fab fa-github
-          #            url: github.com/Kyuuu827
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            #        link_text: Project Website
+            #        additional_links:
+            #          - title:  Kyuuu827
+            #            icon: fab fa-github
+            #            url: github.com/Kyuuu827
+            # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+          quote: >
+            <b>Skill: Java, Spring Boot, Gradle, Mybatis, Go, AWS Lambda, SQS, Amazon Aurora, ElastiCache</b>
+          description: |
+            * 
+            * <br/><br/>
+      - layout: top-middle
+        title: 앱 회원 신고 관리 개발
         quote: >
           <b>Skill: Python, Flask, AuroraDB, Vue.js</b>
         description: |
