@@ -124,7 +124,7 @@ content:
   - title: Projects
     layout: list
     content:
-      - - layout: top-middle
+      - layout: top-middle
           title: 상품 시스템 개발 및 유지/보수
             #        link: github.com/Kyuuu827
             #        link_text: Project Website
@@ -138,7 +138,7 @@ content:
           quote: >
             <b>Skill: Java, Spring Boot, Gradle, Mybatis, Go, AWS Lambda, SQS, Amazon Aurora, ElastiCache</b>
           description: |
-            * 
+            * 카페 - 앱 상품 등록 연동 프로세스 고도화
             * <br/><br/>
       - layout: top-middle
         title: 앱 회원 신고 관리 개발
