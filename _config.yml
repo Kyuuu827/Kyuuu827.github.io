@@ -143,6 +143,15 @@ content:
           * 상품 상세 기능 고도화 - 카테고리별 탄소감축량 노출을 위한 RDB 모델링 및 기능 구현
           * 행정동 기반의 location 등록 프로세스 개발 및 RDB 설계
       - layout: top-middle
+        title: 카페 1:1문의 어드민 개발(리뉴얼)
+        quote: >
+          <b>Skill: Python, Flask, AuroraDB, Vue.js</b>
+        description: |
+          * 기존 1:1 카페 문의 어드민 백오피스의 기능 고도화 및 리뉴얼 - 핵심 신고 카테고리 추가 모니터링을 위한 기능
+          * DB Migration 및 스키마 변경
+          * 1:1 카페문의 자동 답변 기능 개발 및 PUSH API 연동을 통한 알림 기능 구현 
+          * 신고 건 별 이미지 조회 및 다운로드 기능 개발<br/><br/>
+      - layout: top-middle
         title: 앱 회원 신고 관리 개발
         quote: >
           <b>Skill: Python, Flask, AuroraDB, Vue.js</b>
