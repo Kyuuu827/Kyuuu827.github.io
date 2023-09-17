@@ -138,11 +138,11 @@ content:
         quote: >
           <b>Skill: Java, Spring Boot, Gradle, Mybatis, Go, AWS Lambda, SQS, Amazon Aurora, ElastiCache</b>
         description: |
-          * 카페 - 앱 상품 등록 연동 프로세스 고도화
+          * 카페 - 앱 상품 등록 연동 프로세스 고도화 (AWS Lambda, SQS, Kinesis 등의 서비스들을 활용)
           * 상품 상세 조회시 레디스 조회 매서드 클래스 분리 - 불필요 프록시 인터셉터 제거
           * 상품 상세 기능 고도화 - 카테고리별 탄소감축량 노출을 위한 RDB 모델링 및 기능 구현
           * 행정동 기반의 location 등록 프로세스 개발 및 RDB 설계
-          * 관련 내부 람다 모듈 개발 <br/><br/>
+          * 서비스 관련 내부 람다 모듈 개발 <br/><br/>
       - layout: top-middle
         title: 카페 1:1문의 어드민 개발(리뉴얼)
         quote: >
