@@ -74,6 +74,7 @@ content:
         title: DevOps
         description: |
           * AWS가 제공하는 서비스들을 사용한 경험이 있고 현업에서 자주 사용하며 최적의 아키텍처 설계에 대해 고민합니다. 
+          * AWS Lambda와 SQS, Eventbridge 등을 활용한 기능 구현에 능숙합니다.
           * MySQL, MongoDB, AWS Aurora, DocumentDB
           * AWS SQS, Lambda, S3, Cloud Watch, EC2, Elasticache, Kinesis
       - layout: left
