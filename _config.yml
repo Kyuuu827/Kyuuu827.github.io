@@ -57,9 +57,9 @@ content:
         title: Backend
         description: |
           * **Java, Spring Boot, Mybatis, JPA, Hibernate, Querydsl**
-          - Java + Spring framework 기반의 상품서비스 개발 및 유지 보수를 담당하게 되어 기술 습득에 집중하고 있습니다. 
-          - 기존에 개발되어 운영되고 있는 백오피스를 Kotlin + Spring Boot 기술스택으로 마이그레이션을 진행하며 기술을 습득 중입니다.
-          - 프로젝트 생성부터 직접 진행해보며 프로젝트의 구조 및 클린 아키텍처에 대한 좀 더 고민하고, 프레임워크의 동작원리를 이해하려고 노력합니다.<br/><br/>
+            - Java + Spring framework 기반의 상품서비스 개발 및 유지 보수를 담당하게 되어 기술 습득에 집중하고 있습니다. 
+            - 기존에 개발되어 운영되고 있는 백오피스를 Kotlin + Spring Boot 기술스택으로 마이그레이션을 진행하며 기술을 습득 중입니다.
+            - 프로젝트 생성부터 직접 진행해보며 프로젝트의 구조 및 클린 아키텍처에 대한 좀 더 고민하고, 프레임워크의 동작원리를 이해하려고 노력합니다.<br/><br/>
           * **Python, Flask, Django(DRF), SQLAlchemy**
             - Flask-RESTX를 활용한 REST API 개발에 능숙합니다.
             - Django(DRF) 프레임워크에 익숙하며, 원하는 기능의 API 개발이 가능합니다.
