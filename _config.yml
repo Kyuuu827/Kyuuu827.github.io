@@ -157,6 +157,13 @@ content:
           * 1:1 카페문의 자동 답변 기능 개발 및 PUSH API 연동을 통한 알림 기능 구현 
           * 신고 건 별 이미지 조회 및 다운로드 기능 개발<br/><br/>
       - layout: top-middle
+        title: CS 어드민 개발 및 유지 보수
+        quote: >
+          <b>Skill: Go, Gin, GORM, AWS Aurora, Elasticache, Vue.js</b>
+        description: |
+          * 카페, 앱 1:1문의 처리를 위한 통합 어드민 개발 및 유지 보수
+          * 1:1 문의센터(앱/카페) 메인 화면 안내 문구 관리 기능 개발<br/><br/>
+      - layout: top-middle
         title: 앱 회원 신고 관리 개발
         quote: >
           <b>Skill: Python, Flask, AuroraDB, Vue.js</b>
