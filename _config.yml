@@ -149,6 +149,17 @@ content:
           * 대용량의 데이터(약 1000만건) 일괄 처리
           * properties 기반의 상품 등록 가격 정책(공통, 버티컬 계정) 조회를 Redis 및 DB 조회 방식으로 변경<br/><br/>
       - layout: top-middle
+        title: 카페 등급 변경 자동화 기능 개발
+        quote: >
+          <b>Skill: Python, Flask, AWS Lambda, SQS, AWS AuroraDB, DynamoDB</b>
+        description: |
+          * 카페 등급 개편 및 유저의 카페-앱 연동 이력에 따른 등급 설정을 위한 자동화 기능 개발
+          * 내부 정책에 따른 카페 등업 대상자 추출 배치 모듈 및 카페 등업 API 호출 람다 모듈 개발
+          * 카페 등업 대상자 추출시 앱에서의 안전거래 횟수 및 카페-앱 연동 여부 반영 
+          * 카페 제재 이력에 따른 강등 및 등업 제한 로직 반영
+          * 앱 회원 안전거래시 SQS 메시지 발송 및 APScheduler를 통한 DB 적재 
+          * 등급 변경시 히스토리 로그 DynamoDB 저장 <br/><br/>
+      - layout: top-middle
         title: 카페 1:1문의 어드민 개발(리뉴얼)
         quote: >
           <b>Skill: Python, Flask, AuroraDB, Vue.js</b>
