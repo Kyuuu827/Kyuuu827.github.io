@@ -158,6 +158,7 @@ content:
           * 카페 등업 대상자 추출시 앱에서의 안전거래 횟수 및 카페-앱 연동 여부 반영 
           * 카페 제재 이력에 따른 강등 및 등업 제한 로직 반영
           * 앱 회원 안전거래시 SQS 메시지 발송 및 APScheduler를 통한 DB 적재 
+          * AWS SQS FIFO queue 사용 및 Lambda Batchsize, 동시성 컨트롤을 통한 데이터 정합성 핸들링 
           * 등급 변경시 히스토리 로그 DynamoDB 저장 <br/><br/>
       - layout: top-middle
         title: 카페 1:1문의 어드민 개발(리뉴얼)
