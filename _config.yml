@@ -55,8 +55,8 @@ content:
       - layout: left
         title: Backend
         description: |
-          * **Java, Spring Boot, Mybatis, JPA, Hibernate, Querydsl**
-            - Java + Spring Boot 기반의 상품서비스 개발 및 유지 보수를 담당하고 있습니다.
+          * **Java, Spring Boot, Spring Batch, Jpa, Mybatis, Hibernate, Querydsl**
+            - Java + Spring Boot 기반의 상품서비스와 주문/결제 서비스를 담당하고 있습니다.
             - 프로젝트 생성부터 직접 진행해보며 프로젝트의 구조 및 클린 아키텍처에 대한 좀 더 고민하고, 프레임워크의 동작원리를 이해하려고 노력합니다.<br/><br/>
           * **Python, Flask, Django(DRF), SQLAlchemy**
             - Flask-RESTX를 활용한 REST API 개발에 능숙합니다.
@@ -89,7 +89,7 @@ content:
         title: 중고나라(Joonggonara)
         link: https://web.joongna.com
         # link_text: boringcompany.com
-        sub_title: 아키텍처팀, Backend Developer
+        sub_title: 상품서비스개발팀, Backend Developer
         caption: 2022.03 - Present
         quote: >
           카페 회원 누적 1900만, 모바일 앱 누적 1000만 다운로드 달성의 온라인 중고거래 플랫폼
