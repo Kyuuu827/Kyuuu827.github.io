@@ -125,7 +125,33 @@ content:
     layout: list
     content:
       - layout: top-middle
-        title: 상품 시스템 개발 및 유지/보수
+        title: 결제시스템 개발 및 유지/보수
+          #        link: github.com/Kyuuu827
+          #        link_text: Project Website
+          #        additional_links:
+          #          - title:  Kyuuu827
+          #            icon: fab fa-github
+        #            url: github.com/Kyuuu827
+        # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #   icon: fab fa-github
+        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          <b>Skill: Java, Spring Boot, JPA, Querydsl, Spring Batch, AWS Aurora, DynamoDB, Redis</b>
+        description: |
+          * 신규 PG사 도입에 따른 side-effect 대응
+            - 결제 완료시 특정 금융사의 external return API 간헐적 요청 누락으로 인한 내부 return, callback API 로직 변경
+            - PG사 API Document 분석 및 이슈 대응
+          * 결제, 정산 운영 이슈 대응
+            - 비정상 케이스 발생시 PG사, Van사 커뮤니케이션 및 이슈 대응
+            - 팀 내 Live DB 데이터 보정 작업 담당
+          * 카드사별 프로모션 이벤트 적용을 위한 개발
+          * 안전 거래 어드민 개발 및 유지/보수
+            - 결제 완료 관리 화면 및 엑셀 다운로드 고도화
+          * 셀러 플랫폼 2차 개발에 따른 주문, 결제 공통 모듈 고도화
+          * 전자세금계산서 기능 도입
+            - 신규 기능 도입을 위한 Van사 기능 검토, 기능 도입 추진 및 Task 검토<br/><br/>
+      - layout: top-middle
+        title: 상품시스템 개발 및 유지/보수
           #        link: github.com/Kyuuu827
           #        link_text: Project Website
           #        additional_links:
