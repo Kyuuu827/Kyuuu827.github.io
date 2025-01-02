@@ -266,15 +266,6 @@ content:
           * 현재 계정 생성/삭제 기능은 담당자의 슬랙 메시지 승인시 자동 생성/삭제 되어 수립한 정책에 따라 신청자 혹은 계정 주인에게 DB이 발송되며, 비밀번호 초기화 기능은 담담자의 승인 없이 지원
           * 프로세스 간소화에 따른 계정 관리 부서 및 업무 요청자들의 불필요한 리소스를 줄여 사내 전반적인 업무 효율 개선<br/><br/>
       - layout: top-middle
-        title: 사내 HR 프로그램 진행을 위한 전 직원 조 편성 백오피스 개발
-        quote: >
-          <b>Skill: Python, AWS Chalice, AWS Lambda, API Gateway, AuroraDB, Vue.js</b>
-        description: |
-          * 격주로 진행되는 사내 HR 프로그램 진행을 위한 직원 리스트 관리, 조 편성 및 결과 통보를 위한 백오피스 개발
-          * 입사자/퇴사자 발생시 전체 리스트 수정 기능, 행사 진행시 불참자 반영 및 랜덤 조편성 알고리즘 추가
-          * 전 직원이 쉽게 조회/검색 가능한 웹 페이지 개발
-          * AWS Chalice 프레임워크 신규 적용을 통한 AWS Lambda, API Gateway 연동 및 배포<br/><br/>
-      - layout: top-middle
         title: 이미지 Webp 변환 및 S3 업로드 기능 개발 - Google SEO 이미지 최적화
         quote: >
           <b>Skill: Python, Serverless Framework, AWS Lambda, SQS, S3, PIL</b>
