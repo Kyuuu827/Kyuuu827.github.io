@@ -125,7 +125,7 @@ content:
     layout: list
     content:
       - layout: top-middle
-        title: 결제시스템 개발 및 유지/보수
+        title: 결제시스템, 정산배치 개발 및 유지/보수
           #        link: github.com/Kyuuu827
           #        link_text: Project Website
           #        additional_links:
