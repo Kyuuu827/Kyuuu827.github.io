@@ -152,15 +152,6 @@ content:
             - 신규 기능 도입을 위한 Van사 기능 검토, 기능 도입 추진 및 Task 검토<br/><br/>
       - layout: top-middle
         title: 상품시스템 개발 및 유지/보수
-          #        link: github.com/Kyuuu827
-          #        link_text: Project Website
-          #        additional_links:
-          #          - title:  Kyuuu827
-          #            icon: fab fa-github
-          #            url: github.com/Kyuuu827
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-        #   icon: fab fa-github
-        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           <b>Skill: Java, Spring Boot, Gradle, Mybatis, Go, AWS Lambda, SQS, Amazon Aurora, ElastiCache</b>
         description: |
