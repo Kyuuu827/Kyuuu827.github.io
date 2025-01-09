@@ -169,6 +169,20 @@ content:
             - 네이버 플랫폼에 의존적인 서비스 특성상 예상치 못한 오류가 간헐적으로 발생시, 실시간 대응 (네이버 API Spec변경에 따른 소스코드 변경, 예외처리 수정 등)
             - 서로 다른 두 플랫폼(앱-카페)의 연동 게시글 상태 동기화 이슈 대응<br/><br/>
       - layout: top-middle
+        title: 셀러지원센터 구매 프로세스 및 카페 연동 기능 개발
+        quote: >
+          <b>Skill: Java, Spring Boot, Spring Batch, Gradle, Jpa, Querydsl, Mybatis</b>
+        description: |
+          * 서비스 이용권 개시일자 설정 및 즉시 개시 프로세스 개발
+            - 결제수단에 따른 개시일자 설정 타입 추가 및 결제 완료 후 즉시 개시 기능 추가
+          * 서비스 개시 및 만료 배치 개발
+            - 이용권 개시/만료일 도래시 구매 이용권의 주문 상태 변경 및 개시/만료 프로세스 수행
+            - 이용권 연장 결제 기능 추가에 따른 DB 스키마 변경 및 SQL 쿼리 최적화
+            - 내부 정책에 따른 계정 제재 상태 및 카페 활동정지 상태 변경 및 네이버 카페 자동 등업/강등 기능 개발
+            - 개시/만료 프로세스 실패시 슬랙 알림 발송 기능 개발
+          * 알림톡 발송 배치 개발
+            - 서비스 개시, 만료 등 내부 정책에 따른 알림톡 발송 기능<br/><br/>
+      - layout: top-middle
         title: 회원 모니터링 관련 배치(Jenkins) -> AWS Step Functions 이관
         quote: >
           <b>Skill: Python, Step Functions, AWS Lambda</b>
